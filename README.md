@@ -1,9 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sai krishna Vinjamuri</h1>
 
-<h3 >Full-Stack Developer | React, Node.js, MongoDB | REST APIs | JWT Auth</h3>
-
-
 
 - 🔭 I’m currently building a full-stack application — open to collaborators!
 
